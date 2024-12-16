@@ -1,0 +1,24 @@
+.box2 {
+    display: flex;
+}
+.s {
+    background-color: pink;
+    padding: 20px;
+    margin: 10px;
+    width: 140px;
+    height:  30px;
+}
+.box3 {
+    display: flex;
+}
+.box {
+    background-color: red;
+    display: inline-block;
+}
+.a {
+    background-color: pink;
+    padding: 20px;
+    margin: 10px;
+    width: 140px;
+    height:  120px;
+}
